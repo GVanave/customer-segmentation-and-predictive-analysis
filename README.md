@@ -6,7 +6,8 @@
 
 2. Installation: Before running the project, make sure you have Python installed. Install the necessary packages by executing the following command:
 
-***pip install pandas scikit-learn matplotlib seaborn***
+  ***pip install pandas scikit-learn matplotlib seaborn***
+  
 3. Data Preprocessing: Clean and preprocess the data, handling missing values, and standardizing the features as needed. This step ensures that the data is ready for clustering.
 
 4. Clustering Algorithm Selection: Choose an appropriate clustering algorithm based on the data characteristics and desired outcomes. Common algorithms include k-means, hierarchical clustering, and DBSCAN.
