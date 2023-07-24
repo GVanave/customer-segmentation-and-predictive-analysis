@@ -1,1 +1,1 @@
-# customer-segmentation-and-predictive-analysis
+# customer-segmentation
