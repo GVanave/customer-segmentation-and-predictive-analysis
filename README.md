@@ -1,5 +1,5 @@
 # customer-segmentation
-
+![Example Image] (https://github.com/GVanave/customer-segmentation-and-predictive-analysis/blob/main/correlation.PNG)
 
 # How to Use
 1. Data Collection: Gather relevant customer data, which may include demographic information, purchase history, online activity, and other behavioral data. Ensure that the data is in a suitable format for analysis.
