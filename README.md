@@ -4,9 +4,7 @@
 # How to Use
 1. Data Collection: Gather relevant customer data, which may include demographic information, purchase history, online activity, and other behavioral data. Ensure that the data is in a suitable format for analysis.
 
-2. Installation: Before running the project, make sure you have Python installed. Install the necessary packages by executing the following command:
-
-  ***pip install pandas scikit-learn matplotlib seaborn***
+2. Installation: Before running the project, make sure you have Python installed. Install the necessary packages by executing the following command: ***pip install pandas scikit-learn matplotlib seaborn***
   
 3. Data Preprocessing: Clean and preprocess the data, handling missing values, and standardizing the features as needed. This step ensures that the data is ready for clustering.
 
