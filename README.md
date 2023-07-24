@@ -20,6 +20,8 @@
 
 9. Marketing Strategies: Develop targeted marketing strategies for each customer segment to cater to their specific preferences and needs. Personalization can lead to increased customer engagement and loyalty.
 
+![Example Image](https://github.com/GVanave/customer-segmentation-and-predictive-analysis/blob/main/clusters.PNG)
+
 
 # Benefits
 **Personalization**: By segmenting customers, businesses can offer personalized products and services, leading to higher customer satisfaction and retention.
