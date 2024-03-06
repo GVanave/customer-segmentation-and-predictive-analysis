@@ -1,7 +1,7 @@
 
 # Customer Segmentation
+![Example Image](https://github.com/GVanave/customer-segmentation-and-predictive-analysis/blob/main/clusters.PNG)
 
-![Example Image](https://github.com/GVanave/customer-segmentation-and-predictive-analysis/blob/main/correlation.PNG)
 
 ## How to Use
 
@@ -45,6 +45,5 @@
 - **Customer Retention:** Improve engagement and encourage repeat purchases with tailored messages.
 - **Business Growth:** Identify new opportunities for expansion and growth.
 
-![Example Image](https://github.com/GVanave/customer-segmentation-and-predictive-analysis/blob/main/clusters.PNG)
-
+![Example Image](https://github.com/GVanave/customer-segmentation-and-predictive-analysis/blob/main/correlation.PNG)
 
